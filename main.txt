@@ -1,0 +1,21 @@
+{
+  "device": "ESP32",
+  "url": "https://bug-nor-dans-moore.trycloudflare.com",
+  "pins": {
+    "18": [
+      "on",
+      "off",
+      "blink"
+    ],
+    "19": [
+      "on",
+      "off",
+      "blink"
+    ],
+    "21": [
+      "on",
+      "off"
+    ]
+  },
+  "updated_at": "2026-02-03T11:36:35.225268Z"
+}
