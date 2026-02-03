@@ -1,6 +1,6 @@
 {
   "device": "ESP32",
-  "url": "https://tub-donation-contents-gotta.trycloudflare.com",
+  "url": "https://nested-mounted-nowhere-grid.trycloudflare.com",
   "pins": {
     "18": [
       "on",
@@ -17,5 +17,5 @@
       "off"
     ]
   },
-  "updated_at": "2026-02-03T15:10:30.317604Z"
+  "updated_at": "2026-02-03T16:17:21.399706Z"
 }
