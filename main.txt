@@ -1,6 +1,6 @@
 {
   "device": "ESP32",
-  "url": "https://recognition-franchise-values-hollywood.trycloudflare.com",
+  "url": "https://deaf-range-operational-latitude.trycloudflare.com",
   "pins": {
     "18": [
       "on",
@@ -17,5 +17,5 @@
       "off"
     ]
   },
-  "updated_at": "2026-02-03T16:44:11.598829Z"
+  "updated_at": "2026-02-03T16:48:59.663390Z"
 }
