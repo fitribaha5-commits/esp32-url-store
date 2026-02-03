@@ -1,6 +1,6 @@
 {
   "device": "ESP32",
-  "url": "https://nested-mounted-nowhere-grid.trycloudflare.com",
+  "url": "https://recognition-franchise-values-hollywood.trycloudflare.com",
   "pins": {
     "18": [
       "on",
@@ -17,5 +17,5 @@
       "off"
     ]
   },
-  "updated_at": "2026-02-03T16:17:21.399706Z"
+  "updated_at": "2026-02-03T16:44:11.598829Z"
 }
