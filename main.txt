@@ -1,6 +1,6 @@
 {
   "device": "ESP32",
-  "url": "https://deaf-range-operational-latitude.trycloudflare.com",
+  "url": "https://everyday-communications-excellence-criteria.trycloudflare.com",
   "pins": {
     "18": [
       "on",
@@ -17,5 +17,5 @@
       "off"
     ]
   },
-  "updated_at": "2026-02-03T16:48:59.663390Z"
+  "updated_at": "2026-02-04T06:07:39.197692Z"
 }
